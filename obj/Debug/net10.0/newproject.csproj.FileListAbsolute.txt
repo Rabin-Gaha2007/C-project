@@ -1,0 +1,14 @@
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.AssemblyInfoInputs.cache
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.AssemblyInfo.cs
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.csproj.CoreCompileInputs.cache
+C:\ISMT C#\newproject\bin\Debug\net10.0\newproject.exe
+C:\ISMT C#\newproject\bin\Debug\net10.0\newproject.deps.json
+C:\ISMT C#\newproject\bin\Debug\net10.0\newproject.runtimeconfig.json
+C:\ISMT C#\newproject\bin\Debug\net10.0\newproject.dll
+C:\ISMT C#\newproject\bin\Debug\net10.0\newproject.pdb
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.dll
+C:\ISMT C#\newproject\obj\Debug\net10.0\refint\newproject.dll
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.pdb
+C:\ISMT C#\newproject\obj\Debug\net10.0\newproject.genruntimeconfig.cache
+C:\ISMT C#\newproject\obj\Debug\net10.0\ref\newproject.dll
